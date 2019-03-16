@@ -4,6 +4,7 @@ libQt5Mqtt.so.5:Qt_5.1
 libQt5Mqtt.so.5:Qt_5.10
 libQt5Mqtt.so.5:Qt_5.11
 libQt5Mqtt.so.5:Qt_5.12
+libQt5Mqtt.so.5:Qt_5.12.2_PRIVATE_API
 libQt5Mqtt.so.5:Qt_5.2
 libQt5Mqtt.so.5:Qt_5.3
 libQt5Mqtt.so.5:Qt_5.4
@@ -12,7 +13,6 @@ libQt5Mqtt.so.5:Qt_5.6
 libQt5Mqtt.so.5:Qt_5.7
 libQt5Mqtt.so.5:Qt_5.8
 libQt5Mqtt.so.5:Qt_5.9
-libQt5Mqtt.so.5:Qt_5_PRIVATE_API
 libQt5Mqtt.so.5:_Z5qHashRK14QMqttTopicNamej
 libQt5Mqtt.so.5:_Z5qHashRK16QMqttTopicFilterj
 libQt5Mqtt.so.5:_ZN11QMqttClient10setWillQoSEh
